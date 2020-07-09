@@ -1,0 +1,6 @@
+{
+    "name": "Mood Music",
+    "version": "1.0",
+    "description": "Listening to music based on your mood", 
+    "manifest_version": 2
+  }
